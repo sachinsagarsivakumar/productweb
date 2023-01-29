@@ -238,14 +238,10 @@ people.html
 </body>
 </html>
 ```
-
-
 ## Output:
-
-
-
-## HTML Validator
-
-
+![Output](./op1.png)
+![Output](./op2.png)
+![Output](./op3.png)
+![Output](./op4.png)
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
