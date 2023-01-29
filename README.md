@@ -239,9 +239,9 @@ people.html
 </html>
 ```
 ## Output:
-![Output](./op1.png)
-![Output](./op2.png)
-![Output](./op3.png)
-![Output](./op4.png)
+![Output](./op1.jpg)
+![Output](./op2.jpg)
+![Output](./op3.jpg)
+![Output](./op4.jpg)
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
